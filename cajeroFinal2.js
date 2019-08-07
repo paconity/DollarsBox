@@ -1,4 +1,4 @@
-aviso.innerHTML = "Nota del Autor: Recuerda retirar el dinero cuando se te haya entregado ¡Gracias!";
+aviso.innerHTML = "Nota del Autor: Pulsa el botón de retirar para limpiar la pantalla.";
 var no = 0;
 var cantidadImagen = 0;
 var valorImagen = 0;
