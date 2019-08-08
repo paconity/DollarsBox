@@ -1,4 +1,4 @@
-aviso.innerHTML = "Nota del Autor: Pulsa el botón de retirar para limpiar la pantalla.";
+aviso.innerHTML = "Nota: Pulsa el botón de retirar para limpiar la pantalla.";
 var no = 0;
 var cantidadImagen = 0;
 var valorImagen = 0;
